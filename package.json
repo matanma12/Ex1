@@ -1,0 +1,16 @@
+{
+  "name": "ex1",
+  "description": "A simple Node.js zip server.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Matan Maman",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "express": "^4.9.7",
+    "ejs": "^1.7.0",
+    "mongodb": "^2.1.13",
+    "mongoose": "^4.0.0"
+  }
+}
