@@ -3,9 +3,11 @@
   "description": "A simple Node.js zip server.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matan Maman",
+  "license": "UNLICENSE",
   "dependencies": {
     "body-parser": "^1.9.0",
     "express": "^4.9.7",
